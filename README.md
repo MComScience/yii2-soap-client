@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist MComScience/yii2-soap-client "*"
+composer require --prefer-dist m-comscience/yii2-soap-client "*"
 ```
 
 or add
 
 ```json
-"MComScience/yii2-soap-client": "*"
+"m-comscience/yii2-soap-client": "*"
 ```
 
 to the `require` section of your `composer.json` file.
