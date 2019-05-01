@@ -1,5 +1,5 @@
 {
-    "name": "MComScience/yii2-soap-client",
+    "name": "m-comscience/yii2-soap-client",
     "description": "SOAP Client Extension for Yii 2",
     "keywords": ["yii2", "extension", "soap", "consumer"],
     "homepage": "https://github.com/MComScience/yii2-soap-client",
