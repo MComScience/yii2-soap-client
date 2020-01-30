@@ -1,6 +1,6 @@
 <?php
 
-namespace mongosoft\soapclient;
+namespace mcomscience\soapclient;
 
 /**
  * Class Exception
